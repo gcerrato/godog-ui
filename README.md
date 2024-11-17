@@ -1,3 +1,3 @@
 # README
 
-A desktop AI chat bot written in Go
+A desktop app frontend written in Svelte and backend in Go
